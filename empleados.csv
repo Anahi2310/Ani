@@ -1,0 +1,4 @@
+Nombre,Apellidos,Cedula,Direccion,AnosAntiguedad,Telefono,Salario,Detalles
+Juan,Perez,123456789,Calle 123,5,555-1234,1900.0,Oficina 1
+Ana,Gomez,987654321,Calle 456,3,555-5678,2200.0,ABC-123,Toyota,Corolla,555-6789,Zona Norte
+Carlos,Sanchez,111222333,Calle 789,10,555-9876,30000.0,Oficina Principal,Juan,1
